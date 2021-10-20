@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndersonHsieh0330
+👋 Hi, I’m @AndersonHsieh0330
 I'm a first year -> second year computer engineering student at the University of Waterloo
 I'm into mobile apps development and mainly works on native Android with Kotlin/Java
 However I am currently learning React to build my personal website! Stay tuned for more
