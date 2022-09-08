@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @AndersonHsieh0330
-- I'm a second-year Computer Engineering student at the University of Waterloo and this is where I currently live.
-- I'm into mobile apps development and mainly work on native Android with Kotlin/Java. However, I'm also interested in other front-end frameworks like React, as well as backend technologies like Spring, MySQL. 
-- My short term goal is to become a full stack developer who is capable of implementing all areas of a software system and I am currently seeking Winter 2023 Coop opportunities, please contact me through the following:
+- 👋 Hi, I’m Anderson Hsieh
+- I'm a second-year Computer Engineering student at the University of Waterloo.
+- Started my software development career at my freshman year, I consider myself as a full stack application developer with the choice of dev stack being MySQL, Spring Boot, Next.js/React.js and Android
+- I believe the best way to learn is through personal projects, which is why I am currently in charge of the task/order management system for Bristle Co. Ltd, a wheel brush manufacturing company location in Taoyuan Taiwan. Checkout [link](https://github.com/Bristle-Co) for more!
+- My short term goal in the next 2 school terms is to wrap up higher-level programming project developments and discover more about embedded/firmware development. Also Looking for Summer 2023 internship in related fields, please feel free to reach out to me if oppotunities come across
 
 - h2hsieh@uwaterloo.ca 
 - [LinkedIn](https://www.linkedin.com/in/anderson-hsieh-6003a41ba/) 
-- [Instagram](https://www.instagram.com/anderson_hsieh0330/)
+- [Instagram](https://www.instagram.com/anderson_hsieh_/)
